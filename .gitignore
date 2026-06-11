@@ -1,0 +1,18 @@
+# Operational datasets and exports — do not commit
+UNITI Reports 25-26/
+*.csv
+*.xlsx
+
+# Office / temp files
+~$*
+*.tmp
+
+# Internal validation and analysis
+Cursor Annual Report Outputs/Data_Validation_Report_2025-26.md
+Cursor Annual Report Outputs/analysis_metrics.json
+
+# Superseded LTSE drafts
+Cursor Annual Report Outputs/V1.0-LTSE_2526_Wellbeing_Update.*
+Cursor Annual Report Outputs/V2.0-LTSE_2526_Wellbeing_Update.*
+Cursor Annual Report Outputs/V3.0-LTSE_2526_Wellbeing_Update.*
+Cursor Annual Report Outputs/V4.0-LTSE_2526_Wellbeing_Update.*
